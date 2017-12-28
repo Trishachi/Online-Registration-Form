@@ -118,7 +118,7 @@ input[type=text], input[type=email], input[type=tel], select, textarea, button {
     line-height: 20px;
 }
 
-#zip {
+#post {
     height: 50px;
     width: 150px;
 }
@@ -203,7 +203,7 @@ p.copyright {
 		display: inline-block;
 	}
 	
-	  input[type=text], input[type=email], input[type=tel], #state, select {
+	  input[type=text], input[type=email], input[type=tel], #province, select {
   	    width: 420px;
     	display: inline-block;
  	}
